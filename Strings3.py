@@ -1,0 +1,6 @@
+nombre1='enrique barros fernandez'.title()
+nombre2='Esta Es Una Frase Para Ser Formateada'.lower()
+nombre3='Esta Es Una Frase Para Ser Formateada'.upper()
+print(nombre1)
+print(nombre2)
+print(nombre3)
